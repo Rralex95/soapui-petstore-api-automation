@@ -1,2 +1,31 @@
-# soapui-petstore-api-automation
-REST API automation framework built with SoapUI, featuring CRUD testing, Groovy scripting, Property Transfers, and JsonPath validations.
+# SoapUI PetStore API Automation
+
+## Features
+
+- POST Pet
+- GET Pet
+- PUT Pet
+- DELETE Pet
+- JsonPath Assertions
+- HTTP Status Assertions
+- Response SLA Assertions
+- Property Transfer
+- Groovy Scripting
+- Dynamic Test Data
+
+## Tools
+
+- SoapUI Open Source 5.9.1
+- Groovy
+- REST APIs
+
+## API Under Test
+
+PetStore Swagger API
+
+## Test Coverage
+
+- Create Pet
+- Retrieve Pet
+- Update Pet
+- Delete Pet
