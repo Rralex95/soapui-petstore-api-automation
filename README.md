@@ -29,3 +29,9 @@ PetStore Swagger API
 - Retrieve Pet
 - Update Pet
 - Delete Pet
+
+## Author
+
+**Misael Rincón Rodríguez**
+
+QA Automation Engineer
